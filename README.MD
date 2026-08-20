@@ -5,10 +5,10 @@ The files in this repository are the production and design files for a TAD5242-b
 ## Board Specifications
 
 The following images show measured specifications using a DSPi (Pico) system to create the I2S stream and a QuantAsylum QA403 to test the analog output.
-![](SpecImage\QAImg_260820_063636.png)
-![](SpecImage\QAImg_260820_063701.png)
-![](SpecImage\QAImg_260820_063839.png)
-![](SpecImage\QAImg_260820_063937.png)
+![spectrum](.\SpecImage\QAImg_260820_063636.png)
+![imd](.\SpecImage\QAImg_260820_063701.png)
+![dvsf](.\SpecImage\QAImg_260820_063839.png)
+![dvsa](.\SpecImage\QAImg_260820_063937.png)
 
 ## Design Decisions
 
